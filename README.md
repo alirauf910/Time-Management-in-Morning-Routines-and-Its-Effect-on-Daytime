@@ -1,5 +1,7 @@
 # Time Management in Morning Routines and Its Effect on Daytime Focus
 
+![Image](https://github.com/user-attachments/assets/9750769d-2842-4c2d-861d-ef669932a46c)
+
 ## 📘 Overview
 This dataset explores the relationship between **morning routines** and **daytime productivity**. It was curated to understand how time management practices, such as wake-up time, sleep duration, journaling, exercise, and other morning activities, influence focus and productivity throughout the day.  
 The goal is to provide insights that can guide **students, professionals, and organizations** in optimizing their daily routines for improved performance and well-being.
